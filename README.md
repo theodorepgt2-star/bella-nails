@@ -3,7 +3,7 @@
 Landing page για το στούντιο νυχιών **bella_doll_nails** (Πάτρα).
 Instagram: https://www.instagram.com/bella_doll_nails/
 
-Ενιαίο `index.html`, χωρίς εξαρτήσεις, στα ελληνικά, σε γαλάζιο στυλ.
+Ενιαίο `index.html`, χωρίς εξαρτήσεις, στα ελληνικά, σε σκούρο στυλ με ροζ-χρυσές αποχρώσεις (ίδια παλέτα με το olgas.nailsss).
 
 ## Ενότητες
 
